@@ -2,3 +2,16 @@ p {
 	color: #00D500;  
 }
 
+body {
+    font-size: 14px;
+    color: black;
+    background-color: #525252;
+    margin: 20px;
+    padding: 0;
+}
+
+img {
+	padding-left: 50px;
+	padding-bottom: 50px;
+}
+
