@@ -1,6 +1,32 @@
 p {
 	color: #00D500;  
+	padding-left: 100px;
+	padding-bottom: 20px;
+	font-size: 1.9em;
 }
+
+h1 {
+	border-style: groove;
+	border-width: 5px;
+	border-left-width: 5px;
+	border-right-width: 5px;
+	border-color: #3ABB03;
+	font-size: 2.6em;
+	background-color: #20271D;
+	color: #2D9700;
+	padding-left: 150px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+h2{
+	font-size: 2.6em;
+	color: #409B00;
+	padding-left: 150px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
 
 body {
     font-size: 14px;
@@ -11,6 +37,7 @@ body {
 }
 
 img {
-	padding-left: 50px;
-	padding-bottom: 50px;
+	padding-left: 450px;
+	padding-bottom: 30px;
 }
+
